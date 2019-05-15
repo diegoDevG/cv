@@ -1,15 +1,16 @@
 language: node_js
-cache: 
+cache:
   directories:
-    - ~!@/ .npm
+    - ~/.npm
 node_js:
   - '9'
-git: 
+git:
   depth: 3
-script: 
-  - yarn buid
-  - echo 'url '
-deploy: 
+script:
+  - yarn build
+  - echo 'cv.arepa.dev' > public/CNAME
+deploy:
+  name: Elmo@gremlim
   provider: pages
   skip-cleanup: true
   keep-history: true
@@ -17,5 +18,5 @@ deploy:
   local-dir: dist/
   target-branch: master
   commit_message: "Deploy release ${TRAVIS_TAG}"
-  on: 
+  on:
     branch: develop
