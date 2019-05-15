@@ -8,4 +8,4 @@ const Sidebar = ({ children }) => (
     </div>
 )
 
-export default Sidebar
+export default Sidebar;
