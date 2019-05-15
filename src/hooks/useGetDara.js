@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-const api = "https://us-central1-gndx-cv.cloudfunctions.net/me";
+// const api = "https://us-central1-gndx-cv.cloudfunctions.net/me";
+const api = "https://raw.githubusercontent.com/ingeekar/cv/develop/src/utils/my-cv.json";
 
 const useGetData = () => {
     const [myData, setData] = useState([]);

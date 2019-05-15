@@ -38,6 +38,7 @@ const AboutBio = styled.p`
     color: #757575;
     font-size: 1em;
     font-weight:300;
+    text-align: left;
 `;
 
 const AboutLocation = styled.p`

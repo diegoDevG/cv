@@ -1,7 +1,7 @@
 {
     "address": "Bogota, Colombia.",
-    "avatar": "https://s3.amazonaws.com/chewiekie/img/photo.jpg",
-    "bio": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "avatar": "https://scontent.fbaq2-2.fna.fbcdn.net/v/t1.0-9/34963656_10214740540079767_4682927873621753856_o.jpg?_nc_cat=109&_nc_eui2=AeGJsdArXNuCQrhaiUybp0cvA1_4tCz8YGPNF5K9zvM9QSoqn5PChnCznGRnRM3_vPn3u-6G2Ami_rFw2DPa6RUcm4aBYFjkDOt1WPbw6_k3-A&_nc_ht=scontent.fbaq2-2.fna&oh=3819628c47141fdab86e8abc431b54e9&oe=5D6B01CF",
+    "bio": "Diego is a Frontend developer highly focused on learning and apply the best technologies and practices in the front-end development world. Always focused on writing readable, modular, testable and maintainable code aiming to enhance the end user experience. Able to participate in all the areas of the software development process from concept analysis, execution, testing and deployment.  With good knowledge on the Javascript programming language and experience working with ES6,  ReactJs and VueJs  and able to build markup from designs with HTML5 and CSS3 (Sass, postCSS). ",
     "certificate": [
         {
             "date": "Jan 2021",
@@ -34,18 +34,18 @@
     ],
     "experience": [
         {
-            "company": "PugStar",
+            "company": "Globant",
             "endDate": "Present",
             "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-            "jobTitle": "Frontend",
-            "startDate": "Jan 2020"
+            "jobTitle": "Web UI Developer",
+            "startDate": "Jul 2018"
         },
         {
-            "company": "CatStore",
+            "company": "Alkanza",
             "endDate": "Jan 2016",
             "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-            "jobTitle": "Backend",
-            "startDate": "Sept 2019"
+            "jobTitle": "Frontend Developer",
+            "startDate": "Nov 2017"
         }
     ],
     "name": "Diego Andres Cardenas",
@@ -53,37 +53,33 @@
     "skills": [
         {
             "name": "HTML5",
-            "percentage": "75%"
+            "percentage": "95%"
         },
         {
             "name": "CSS",
-            "percentage": "25%"
+            "percentage": "95%"
         },
         {
             "name": "JavaScript",
-            "percentage": "55%"
+            "percentage": "75%"
         },
         {
             "name": "React",
-            "percentage": "90%"
+            "percentage": "70%"
         }
     ],
     "social": [
         {
-            "name": "facebook",
-            "url": "https://facebook.com/"
-        },
-        {
             "name": "twitter",
-            "url": "https://twitter.com/"
+            "url": "https://twitter.com/ingeekar"
         },
         {
             "name": "github",
-            "url": "https://github.com/"
+            "url": "https://github.com/ingeekar"
         },
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/in/ingeekar/"
         }
     ]
 }
