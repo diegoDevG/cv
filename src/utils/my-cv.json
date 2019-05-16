@@ -18,10 +18,10 @@
     ],
     "education": [
         {
-            "degree": "Atomic Master",
+            "degree": "AS Degree in Computer Science",
             "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
             "endDate": "Jan 2017",
-            "institution": "MIT",
+            "institution": "Universidad ECCI",
             "startDate": "Jan 2018"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "company": "Alkanza",
-            "endDate": "Jan 2016",
+            "endDate": "Jan 2018",
             "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
             "jobTitle": "Frontend Developer",
             "startDate": "Nov 2017"
@@ -65,6 +65,22 @@
         },
         {
             "name": "React",
+            "percentage": "70%"
+        },
+        {
+            "name": "Vue",
+            "percentage": "42%"
+        },
+        {
+            "name": "Git & Github",
+            "percentage": "82%"
+        },
+        {
+            "name": "GraphQL",
+            "percentage": "30%"
+        },
+        {
+            "name": "Jest",
             "percentage": "70%"
         }
     ],

@@ -2,7 +2,7 @@ import React from 'react';
 import Styled from 'styled-components';
 
 const StyledH2 = Styled.h2`
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: .8px;
     margin: 1em 0 0 0 ;
     color: #C2185B;
